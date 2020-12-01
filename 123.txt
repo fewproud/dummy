@@ -1,0 +1,2 @@
+chg_num value is: @chg_num@ 
+another line
