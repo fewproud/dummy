@@ -2,9 +2,3 @@ chg_num value is: @chg_num@
 another line
 
 1
-2
-3
-4
-5
-6
-7
